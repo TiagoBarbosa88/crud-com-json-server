@@ -1,19 +1,19 @@
 {
-  "products" : {
-    "1" : {
+  "products" : [
+    {
       "id" : 1,
       "name" : "Caneta Bic Preta",
       "price" : 2.99
     },
-    "2" : {
+    {
       "id" : 2,
       "name" : "Caneta Bic Azul",
       "price" : 2.99
     },
-    "3" : {
+    {
       "id" : 3,
       "name" : "Caderno 100 folhas",
       "price" : 10.99
     }
-  }
+  ]  
 }
